@@ -3,3 +3,4 @@
 *.npz
 *.gz
 */__pycache__/*
+*.h5
