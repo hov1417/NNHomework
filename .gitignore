@@ -1,6 +1,6 @@
 */.ipynb_checkpoints/*
-.ipynb_checkpoints/*
 *.npz
 *.gz
 */__pycache__/*
-*.h5
+*.h5*
+/session2/train/*
