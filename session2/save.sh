@@ -1,7 +1,7 @@
-sleep 1
+sleep 9000
 
 git add -A
 
-git commit -m "test1"
+git commit -m "save"
 
 git push
