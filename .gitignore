@@ -4,5 +4,7 @@
 */__pycache__/*
 *.h5*
 /session2/train/*
+/session2/test/*
+/session2/submission.csv
 *.pkl*
 session3/log/*
